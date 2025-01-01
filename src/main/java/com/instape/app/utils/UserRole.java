@@ -1,0 +1,12 @@
+package com.instape.app.utils;
+
+public enum UserRole {
+ADMIN,
+CLIENT_LEAD,
+CLIENT_MANAGER,
+PARTNER_MANAGER,
+SUPPORT_ADMIN,
+L3_SUPPORT,
+L2_SUPPORT,
+L1_SUPPORT;	
+}
